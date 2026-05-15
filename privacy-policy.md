@@ -1,19 +1,19 @@
-Privacy Policy for Conserve Box
+Privacy Policy
 
 Effective Date: 18-02-2025
-Last Updated: 18-02-2025
-Conserve Box ("the Plugin") is developed by Conserve Solutions ("we," "us," or "our"). This Privacy Policy describes how we handle user data in relation to our Plugin available on the Autodesk App Store.
+Last Updated: 15-05-2026
+Conserve Solutions ("we," "us," or "our") develops a range of software tools, plugins, and applications (collectively, "our Tools"), including those distributed through the Autodesk App Store and other platforms. This Privacy Policy describes how we handle user data across all of our Tools.
 
 1. Data Collection and Usage
-Our Plugin does not collect, store, or transmit any personal data or user information. It operates entirely within Autodesk Revit and does not send data to any external servers.
-If the Plugin collects any non-personal usage statistics (such as error logs or analytics), it will be explicitly mentioned within the Plugin settings, and users will have the option to opt out.
+Our Tools do not collect, store, or transmit any personal data or user information. They operate entirely within their respective host applications and do not send data to any external servers.
+If a specific Tool collects any non-personal usage statistics (such as error logs or analytics), it will be explicitly mentioned within that Tool's settings or documentation, and users will have the option to opt out.
 
 2. Third-Party Data Sharing
-Since our Plugin does not collect any user data, it does not share any data with third parties, including analytics services, advertising networks, or legal affiliates.
+Since our Tools do not collect any user data, we do not share any data with third parties, including analytics services, advertising networks, or affiliates.
 If we ever integrate third-party services in future updates, we will update this Privacy Policy accordingly to ensure that any shared data is protected under the same standards.
 
 3. Data Retention and Deletion
-As we do not collect user data, there is no data retention policy required. However, if future versions of the Plugin include data collection, we will specify retention periods and offer users options for data deletion.
+As we do not collect user data, there is no data retention policy required. However, if future versions of any Tool include data collection, we will specify retention periods and offer users options for data deletion.
 
 4. User Consent and Data Deletion Requests
 Since no data is collected, users do not need to provide consent, nor do they need to request data deletion. If we implement data collection in the future, we will provide a clear method for users to revoke consent and request deletion.
@@ -25,4 +25,3 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have any questions about this Privacy Policy, please contact us at:
 Email: support@conservesolution.com
 Website: https://www.conservesolution.com
-
